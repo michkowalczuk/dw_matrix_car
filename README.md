@@ -1,2 +1,2 @@
-# dw_matrix_car
-Predicting car prices
+# Predicting car prices
+Second part of Dataworkshop Matrix project - Transormation II
